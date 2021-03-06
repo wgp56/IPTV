@@ -1,0 +1,63 @@
+#EXTM3U url-logos="http://epg.51zmt.top:8000/tb1/"
+#EXTINF:-1 tvg-id="521" tvg-logo="Newtv/guzhuangjuchang.png" group-title="新电影",古装剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:-1 tvg-id="519" tvg-logo="Newtv/dongzuodianying.png" group-title="新电影",动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="522" tvg-logo="Newtv/jingsongxuanyi.png" group-title="新电影",惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-id="523" tvg-logo="Newtv/jinpaizongyi.png" group-title="新电影",金牌综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+#EXTINF:-1 tvg-id="524" tvg-logo="Newtv/junshipinlun.png" group-title="新电影",军事评论
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+#EXTINF:-1 tvg-id="525" tvg-logo="Newtv/aiqinggushi.png" group-title="新电影",爱情故事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+#EXTINF:-1 tvg-id="526" tvg-logo="Newtv/jingpindaju.png" group-title="新电影",精品大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="527" tvg-logo="Newtv/jingpinjilu.png" group-title="新电影",精品记录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-id="528" tvg-logo="Newtv/yibanjiankang.png" group-title="新电影",怡伴健康
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
+#EXTINF:-1 tvg-id="529" tvg-logo="Newtv/jingsongxuanyi.png" group-title="新电影",精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 tvg-id="530" tvg-logo="Newtv/junlvjuchang.png" group-title="新电影",军旅剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+#EXTINF:-1 tvg-id="531" tvg-logo="Newtv/jiatingjuchang.png" group-title="新电影",家庭剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+#EXTINF:-1 tvg-id="532" tvg-logo="Newtv/wuboshijie.png" group-title="新电影",武博世界
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+#EXTINF:-1 tvg-id="533" tvg-logo="Newtv/zhongguogongfu.png" group-title="新电影",中国功夫
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-id="534" tvg-logo="Newtv/nongyezhifu.png" group-title="新电影",农业致富
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+#EXTINF:-1 tvg-id="535" tvg-logo="Newtv/chaomalapo.png" group-title="新电影",潮妈辣婆
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+#EXTINF:-1 tvg-id="536" tvg-logo="Newtv/chaojizongyi.png" group-title="新电影",超级综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+#EXTINF:-1 tvg-id="537" tvg-logo="Newtv/chaojitiyu.png" group-title="新电影",超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 tvg-id="538" tvg-logo="Newtv/chaojidianshiju.png" group-title="新电影",超级电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+#EXTINF:-1 tvg-id="539" tvg-logo="Newtv/chaojidianying.png" group-title="新电影",超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-id="540" tvg-logo="Newtv/xuanwuweilai.png" group-title="新电影",炫舞未来
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+#EXTINF:-1 tvg-id="541" tvg-logo="Newtv/dongbeidaju.png" group-title="新电影",东北大剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+#EXTINF:-1 tvg-id="542" tvg-logo="Newtv/huanlejuchang.png" group-title="新电影",欢乐剧场
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+#EXTINF:-1 tvg-id="543" tvg-logo="Newtv/shandong .png" group-title="新电影",山东
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
+#EXTINF:-1 tvg-id="544" tvg-logo="Newtv/jiangxi.png" group-title="新电影",江西
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
+#EXTINF:-1 tvg-id="545" tvg-logo="Newtv/anhui.png" group-title="新电影",安徽
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
+#EXTINF:-1 tvg-id="546" tvg-logo="Newtv/guangdong.png" group-title="新电影",广东
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
+#EXTINF:-1 tvg-id="547" tvg-logo="Newtv/guangxi.png" group-title="新电影",广西
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
+#EXTINF:-1 tvg-id="548" tvg-logo="Newtv/sizhuan.png" group-title="新电影",四川
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
+#EXTINF:-1 tvg-id="549" tvg-logo="Newtv/jilin.png" group-title="新电影",吉林
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
+#EXTINF:-1 tvg-id="550" tvg-logo="Newtv/yunnan.png" group-title="新电影",云南
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
